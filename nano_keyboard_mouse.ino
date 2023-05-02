@@ -110,8 +110,6 @@ Button BTN7 = {B7, "TAB",  KEY_TAB };
 Button BTN8 = {B8, "SPACE",  (char) 0x20}; //space bar
 Button BTN9 = {B9, "BSPACE",  KEY_BACKSPACE};
 
-
-
 Button buttons[]={BTN1,BTN2,BTN3,BTN4,BTN5,BTN6,BTN7,BTN8,BTN9};
 
 bool oled;
